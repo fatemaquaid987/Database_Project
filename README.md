@@ -14,5 +14,4 @@ Download the executable folder and run double click the .exe file to run. Provid
 
 ## Note
 
-This is an old classroom project and therefore prone to bugs and inconsistencies. The code could not be uploaded because it requires a database backend which can not be uploaded either.    
-
+This is an old classroom project and therefore prone to bugs and inconsistencies. The C# code files are added but the database is not. 
